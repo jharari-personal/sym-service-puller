@@ -70,7 +70,7 @@
             },
             "Icon_Dark": {
                 "png": "https://assets.fxcorporate.com/ssd/icons_black/png/icons_black_forex.png",
-                "svg": "https://assets.fxcorporate.com/ssd/icons_black/png/icons_black_forex.svg"
+                "svg": "https://assets.fxcorporate.com/ssd/icons_white/svg/icons_white_forex.svg"
             },
             "Color_Light": "F65D00",
             "Color_Dark": "FF9360",
